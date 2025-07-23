@@ -1,0 +1,12 @@
+[submodule "CJY"]
+	path = CJY
+	url = https://github.com/Financial-data-team/CJY.git
+[submodule "ZJ"]
+	path = ZJ
+	url = https://github.com/Financial-data-team/ZJ.git
+[submodule "LZP"]
+	path = LZP
+	url = https://github.com/Financial-data-team/LZP.git
+[submodule "LXY"]
+	path = LXY
+	url = https://github.com/Financial-data-team/LXY.git
